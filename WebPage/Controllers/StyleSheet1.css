@@ -1,0 +1,12 @@
+﻿
+    .btn-custom{
+        background-color: #222;
+        border-color: #222;
+        color: aliceblue
+ }
+        .btn-custom:hover, .btn-custom:active, .btn-custom:visited, .btn-custom:focus {
+            background-color: #222;
+            border-color: #222;
+            color: #808080
+        }
+
